@@ -1,0 +1,15 @@
+.home {
+    .my-friend {
+        padding: 0;
+        .friend {
+            padding: 10px;
+            display: inline-block;
+            img {
+                width: 100px;
+            }
+            .text {
+                text-align: center;
+            }
+        }
+    }
+}
